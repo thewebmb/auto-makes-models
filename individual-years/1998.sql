@@ -148,6 +148,8 @@ INSERT INTO VehicleYearMakeModel (year, make, model) VALUES
 (1998, 'Isuzu', 'Oasis'),
 (1998, 'Isuzu', 'Rodeo'),
 (1998, 'Isuzu', 'Trooper'),
+(1998, 'Jaguar', 'XJ Series'),
+(1998, 'Jaguar', 'XK Series'),
 (1998, 'Jeep', 'Cherokee'),
 (1998, 'Jeep', 'Grand Cherokee'),
 (1998, 'Jeep', 'Wrangler'),

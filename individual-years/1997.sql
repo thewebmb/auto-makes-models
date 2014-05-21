@@ -229,8 +229,6 @@ INSERT INTO VehicleYearMakeModel (year, make, model) VALUES
 (1997, 'Pontiac', 'Grand Prix'),
 (1997, 'Pontiac', 'Sunfire'),
 (1997, 'Pontiac', 'Trans Sport'),
-(1997, 'Porsche', '911'),
-(1997, 'Porsche', 'Boxster'),
 (1997, 'Saab', '900'),
 (1997, 'Saab', '9000'),
 (1997, 'Saturn', 'S-Series'),
