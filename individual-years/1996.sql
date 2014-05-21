@@ -259,4 +259,4 @@ INSERT INTO VehicleYearMakeModel (year, make, model) VALUES
 (1996, 'Volkswagen', 'Jetta'),
 (1996, 'Volkswagen', 'Passat'),
 (1996, 'Volvo', '850'),
-(1996, 'Volvo', '960'),
+(1996, 'Volvo', '960');
