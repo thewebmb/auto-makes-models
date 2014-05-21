@@ -182,7 +182,7 @@ INSERT INTO VehicleYearMakeModel (year, make, model) VALUES
 (1996, 'Mazda', 'Miata MX-5'),
 (1996, 'Mazda', 'Millenia'),
 (1996, 'Mazda', 'MPV'),
-(1996, 'Mazda', 'MX-6');
+(1996, 'Mazda', 'MX-6'),
 (1996, 'Mazda', 'Protege'),
 (1996, 'Mercedes-Benz', 'C-Class'),
 (1996, 'Mercedes-Benz', 'E-Class'),
