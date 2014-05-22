@@ -11,4 +11,16 @@ This work is licensed under a <a target="_blank" href="http://creativecommons.or
 
 NOTE
 =================
+
+I needed this data for a low to mid range estimation of used sales of vehicles in America, therefore the data does not include the following:
+
+FORMULA CARS
+CONCEPT CARS
+
+LAMBORGHINI
+LOTUS
+PORCHE
+
+ETA OF COMPLETION
+=================
 This project was started on May 20th and is scheduled to be complete by June 1st 2014.
